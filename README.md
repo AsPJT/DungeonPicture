@@ -1,6 +1,6 @@
 # DungeonPicture
 
-## License
+# License
 
 Copyright (c) 2017-2019 Kasugaccho.
 Copyright (c) 2018-2019 As Project.
@@ -15,7 +15,7 @@ Copyright (c) 2018-2019 As Project.
 |Terrain|[**BSL-1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/Terrain/LICENSE)|
 |Write|[**CC0 1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/Write/LICENSE)|
 
-### Boost Software License Version 1.0
+## Boost Software License Version 1.0
 
 
 **Folder Name: "AStar / Country / Noise / Terrain"**
