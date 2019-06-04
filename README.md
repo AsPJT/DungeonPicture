@@ -7,12 +7,21 @@ Copyright (c) 2018-2019 As Project.
 
 |Folder Name|LICENSE|
 |:---|:---|
+|2D|No Licesne|
+|3D|No Licesne|
 |AStar|[**BSL-1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/AStar/LICENSE)|
 |Country|[**BSL-1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/Country/LICENSE)|
+|Cuboid|No Licesne|
 |DBL|[**CC0 1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/DBL/LICENSE)|
+|Logo|No Licesne|
 |Noise|[**BSL-1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/Noise/LICENSE)|
+|Others|No Licesne|
+|Paint|No Licesne|
+|reference|No Licesne|
+|RPG|No Licesne|
 |Save|[**CC0 1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/Save/LICENSE)|
 |Terrain|[**BSL-1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/Terrain/LICENSE)|
+|UE4|No Licesne|
 |Write|[**CC0 1.0**](https://github.com/Kasugaccho/DungeonPicture/blob/master/Picture/Write/LICENSE)|
 
 ## Boost Software License Version 1.0
