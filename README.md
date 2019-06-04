@@ -1,5 +1,7 @@
 # DungeonPicture
 
+[![Logo-GIF](https://kasugaccho.github.io/DungeonPicture/Picture/Logo/logo_color800_2.gif)](https://github.com/Kasugaccho/DungeonTemplateLibrary/wiki/API-reference)
+
 # License
 
 Copyright (c) 2017-2019 Kasugaccho.
