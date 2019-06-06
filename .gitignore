@@ -268,3 +268,4 @@ __pycache__/
 build*/
 
 *-*.txt
+_config.yml
